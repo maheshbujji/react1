@@ -1,0 +1,10 @@
+.greeting{
+    color:black;
+    font-family: roboto;
+    font-size: large;
+    background-color: chartreuse;
+    text-align: center;
+}
+.message{
+    color: coral;
+}
